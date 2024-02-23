@@ -1,4 +1,4 @@
-## DemoApp CatchTheKenny
+## DemoApp LandmarkBook
 The LandmarkBook app lists important landmarks of cities and allows you to view their photos. 
 ### App Contains
 1. Page transition
@@ -15,4 +15,4 @@ The LandmarkBook app lists important landmarks of cities and allows you to view 
 
 | HomePage | Page 1  | Page 2  |
 | ------------ | ------------ | ------------ |
-| ![CK4](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/ce8ff365-67c7-44d5-a1d7-cae0e97f607d)  | ![CK2](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/62f1d9c3-f1af-498d-8975-5f0cc40340b6)  | ![CK3](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/7876b909-57f2-4958-8652-30cde1d61cc0)  |
+| ![lm1](https://github.com/emreosmanc/LandmarkBook/assets/160953680/8574ab48-d921-4a79-9992-84414855f001)  | ![CK2](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/62f1d9c3-f1af-498d-8975-5f0cc40340b6)  | ![CK3](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/7876b909-57f2-4958-8652-30cde1d61cc0)  |
