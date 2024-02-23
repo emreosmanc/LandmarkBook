@@ -15,4 +15,4 @@ The LandmarkBook app lists important landmarks of cities and allows you to view 
 
 | HomePage | Page 1  | Page 2  |
 | ------------ | ------------ | ------------ |
-| ![lm1](https://github.com/emreosmanc/LandmarkBook/assets/160953680/8574ab48-d921-4a79-9992-84414855f001)  | ![CK2](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/62f1d9c3-f1af-498d-8975-5f0cc40340b6)  | ![CK3](https://github.com/emreosmanc/DemoAppCatchTheKenny/assets/160953680/7876b909-57f2-4958-8652-30cde1d61cc0)  |
+| ![lm1](https://github.com/emreosmanc/LandmarkBook/assets/160953680/8574ab48-d921-4a79-9992-84414855f001)  | ![lm2](https://github.com/emreosmanc/LandmarkBook/assets/160953680/54035ae4-b11d-4b22-b190-abfe02160582)  | ![lm3](https://github.com/emreosmanc/LandmarkBook/assets/160953680/c7147ec8-5a44-40d7-93be-f08a15c0ee8c)  |
